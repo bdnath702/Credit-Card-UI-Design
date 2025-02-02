@@ -28,17 +28,11 @@ Google Fonts for typography
 ![image alt](https://github.com/bdnath702/Credit-Card-UI-Design/blob/main/Screenshot.png?raw=true)
 
 
-🚀 How to Use
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/your-repo-name.git
-Open index.html in a browser.
-
 
 🎨 Customization
+
 Change the bg.png to use a different card background.
 Modify style.css to adjust colors, fonts, and layout.
 📜 License
+
 This project is licensed under the MIT License .
