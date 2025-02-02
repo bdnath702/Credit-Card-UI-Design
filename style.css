@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Mitr:wght@300;400;500;600&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(164, 230, 252);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+}
+body .content {
+    background-image: url(images/bg.png);
+    height: 310px;
+    width: 500px;
+    border-radius: 30px;
+    font-family: "Poppins", serif;
+    font-style: normal;
+    padding:40px;
+    box-shadow: 10px 18px 19px rgb(3, 97, 135);
+}
+body .main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;   
+    font-weight: 400;
+}
+body .main h3,
+.number,
+.foot {
+    color: #fff;
+}
+.content .main .logo,
+.chip {
+    height: 40px;
+    width: auto;
+}
+body .main span {
+    display: flex;
+}
+body .main h3 {
+    font-weight: 500;
+}
+body .foot h2{
+    font-weight: 500;
+}
+body .number h2{
+    font-weight: 300;
+
+}
+body .number span{
+    font-weight: 400; 
+}
+body .foot h3{
+    font-weight: 400;
+}
+.content .number{
+    margin-top: 50px;
+}
+.content .foot h2{
+    margin-top: 40px;
+}
+.content .number h2{
+    margin-top: 10px;
+}
+.content .foot{
+    display: flex;
+    justify-content: space-between;   
+}
+.validity{
+margin-top: 20px;
+}
+.main h3{
+    margin-left: 10px;
+    margin-top: 7px;
+}
