@@ -25,8 +25,7 @@ HTML5 for structure
 CSS3 for styling
 Google Fonts for typography
 📸 Preview
-
-
+![image alt](https://github.com/bdnath702/Credit-Card-UI-Design/blob/main/Screenshot.png?raw=true)
 
 
 🚀 How to Use
