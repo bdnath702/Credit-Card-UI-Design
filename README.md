@@ -4,7 +4,7 @@ This project is a responsive credit card UI designed using HTML & CSS. It featur
 
 📌 Features
 ✅ Modern credit card UI design
-✅ Uses Google Fonts for better typography
+✅ Uses Google Fonts for better typography.
 ✅ Flexible and responsive layout.
 ✅ Styled with CSS box-shadow for a realistic effect.
 
