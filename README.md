@@ -21,7 +21,7 @@ This project is a responsive credit card UI designed using HTML & CSS. It featur
 
 
 🔧 Technologies Used
-HTML5 for structure
+HTML5 for structure.
 CSS3 for styling
 Google Fonts for typography
 📸 Preview
