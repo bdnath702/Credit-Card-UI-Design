@@ -8,7 +8,7 @@ This project is a responsive credit card UI designed using HTML & CSS. It featur
 ✅ Flexible and responsive layout.
 ✅ Styled with CSS box-shadow for a realistic effect
 
-📁 Folder Structure
+📁 Folder Structure.
 
 /project-folder
 │-- index.html
