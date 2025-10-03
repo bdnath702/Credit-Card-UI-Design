@@ -3,7 +3,7 @@
 This project is a responsive credit card UI designed using HTML & CSS. It features a visually appealing card layout with a background image, a logo, a chip, and text styling.
 
 📌 Features
-✅ Modern credit card UI design
+✅ Modern credit card UI design.
 ✅ Uses Google Fonts for better typography.
 ✅ Flexible and responsive layout.
 ✅ Styled with CSS box-shadow for a realistic effect
